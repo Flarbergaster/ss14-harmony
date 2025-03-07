@@ -1,0 +1,59 @@
+﻿{
+    "version": 1,
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "license": "CC-BY-SA-3.0",
+    "copyright": "Lizard Sprite by Mithrandalf, Made by Flarbergaster",
+    "states": [
+        {
+            "name": "GizardWizard(red)-healthy",
+            "directions": 4,
+            "delays": [
+                [
+                    1
+                ],
+                [
+                    1
+                ],
+                [
+                    1
+                ],
+                [
+                    1
+                ]
+            ]
+        },
+        {
+            "name": "GizardWizard(Red)-dead",
+            "delays": [
+                [
+                    1
+                ]
+            ]
+        },
+        {
+            "name": "GizardWizard(Red)-Gib",
+            "delays": [
+                [
+                    0.6,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1,
+                    0.1
+                ]
+            ]
+        }
+    ]
+}
+
+
+
+

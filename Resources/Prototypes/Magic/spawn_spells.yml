@@ -1,5 +1,5 @@
-﻿- type: entity
-  id: ActionSpawnMagicarpSpell
+﻿type: entity
+ - id: ActionSpawnMagicarpSpell
   name: Summon Magicarp
   description: This spell summons three Magi-Carp to your aid! May or may not turn on user.
   components:

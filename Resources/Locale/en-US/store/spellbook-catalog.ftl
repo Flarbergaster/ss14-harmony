@@ -66,6 +66,9 @@ spellbook-event-summon-guns-description = AK47s for everyone! Places a random gu
 spellbook-event-summon-magic-name = Summon Magic
 spellbook-event-summon-magic-description = Places a random magical item in front of everybody. Nothing could go wrong! Disables refunds when bought!
 
+spellbook-event-summon-familiar-name = Summon Gizard
+spellbook-event-summon-familiar-description = Summon Gizard the Wizard Lizard!
+
 # Upgrades
 spellbook-upgrade-fireball-name = Upgrade Fireball
 spellbook-upgrade-fireball-description = Upgrades Fireball to a maximum of level 3!
