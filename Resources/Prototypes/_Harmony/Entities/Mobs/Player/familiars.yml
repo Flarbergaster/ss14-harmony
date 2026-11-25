@@ -16,7 +16,7 @@
     allowSpeech: true
     name: ghost-role-information-gizzard-name
     description: ghost-role-information-gizzard-description
-    rules: ghost-role-information-familiar-rules
+    rules: ghost-role-information-famiratorliar-rules
     mindRoles:
     - MindRoleGhostRoleFamiliar
     raffle:
